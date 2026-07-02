@@ -4,7 +4,7 @@ Creative and enthusiastic MSc Artificial Intelligence student at Goa University.
 
 ## 🎓 Education
 - **MSc Artificial Intelligence** — Goa University *(2025 – Present)*
-- **Bachelor's of Computer Application** — Dona Bosco College, Goa *(2022 – 2025, CGPA 9.46)*
+- **Bachelor's of Computer Application** — Don Bosco College, Goa *(2022 – 2025, CGPA 9.46)*
 
 ## 🔭 What I'm working on
 A semester-wise portfolio of AI/ML projects — from statistical analysis and clustering to generative models, reinforcement learning, and end-to-end MLOps pipelines.
@@ -21,9 +21,7 @@ A semester-wise portfolio of AI/ML projects — from statistical analysis and cl
 
 
 ## 🌐 Languages
-English · Hindi · Konkani · Telugu
+English · Hindi · Konkani 
 
 ## 📫 Links
-- LinkedIn: **[add your LinkedIn URL here]**
 - Email: kowsyamutkundu25@gmail.com
-- Resume: *(link once ready)*
