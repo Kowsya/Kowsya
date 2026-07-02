@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="left">Hi there 👋 I'm Kowsya Mutkundu</h1>
 
-<!--
-**Kowsya/Kowsya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative and enthusiastic MSc Artificial Intelligence student at Goa University. Passionate about ML, deep learning, and NLP, with a design-and-detail mindset that carries over from my creative side. Quick learner, adaptable, and always exploring hands-on projects.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **MSc Artificial Intelligence** — Goa University *(2025 – Present)*
+- **Bachelor's of Computer Application** — Dona Bosco College, Goa *(2022 – 2025, CGPA 9.46)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+A semester-wise portfolio of AI/ML projects — from statistical analysis and clustering to generative models, reinforcement learning, and end-to-end MLOps pipelines.
+📂 **[View my full project portfolio →](https://github.com/Kowsya/academic-portfolio)**
+
+## 🚀 A few project highlights
+- **DeepGen-Protein** — CNN/LSTM/GRU classification + VAE/cGAN generative modeling on protein sequences, 99.7%+ accuracy
+- **ADAPT-SHIELD** — end-to-end MLOps pipeline for network intrusion detection (FastAPI, Docker, CI/CD)
+- **RL for Protein Folding** — deep reinforcement learning on the HP-Lattice model, based on a NeurIPS 2022 paper
+- **Hindi-Konkani NMT Evaluation** — benchmarking machine translation across 4 platforms for a low-resource language pair
+
+## 🛠️ Skills
+`Python` `Machine Learning` `Deep Learning` `NLP` `Reinforcement Learning` `MLOps` `Docker` `FastAPI` `Scikit-learn` `Basic Graphic Design`
+
+
+## 🌐 Languages
+English · Hindi · Konkani · Telugu
+
+## 📫 Links
+- LinkedIn: **[add your LinkedIn URL here]**
+- Email: kowsyamutkundu25@gmail.com
+- Resume: *(link once ready)*
